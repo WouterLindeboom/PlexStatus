@@ -1,0 +1,36 @@
+{
+    "transmission":{
+        "host": "",
+        "port": "9091",
+        "path": "/transmission/rpc/",
+        "protocol": "http:",
+        "username": "",
+        "password": "",
+        "maxPenalties": 100
+
+    },
+    "discord":{
+        "token": "",
+        "downy": "",
+        "plexurl": "",
+        "avatarurl": "",
+        "channelid": "",
+        "dlmessageid": "",
+        "diskmessageid": "",
+        "testchannelid": "",
+        "adminchannelid": ""
+
+    },
+    "sonarr":{
+        "hostname": "localhost",
+        "apikey": "",
+        "port": "8989",
+        "urlbase": "/sonarr"
+    },
+    "colours":{
+        "approve": "#3ea25e",
+        "remove": "#e94649",
+        "reset": "#5c68ee",
+        "notexist": "#e94649"
+    }
+}

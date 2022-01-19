@@ -1,0 +1,8 @@
+{
+    "deadTorrents":{
+        "approve": "This torrent has been approved and will be ignored by me from now on.",
+        "remove": "I've removed the torrent and I'll attempt to fetch a new one.",
+        "reset": "I've reset the penalty score for this torrent.",
+        "notexist": "This torrent no longer exists in the download client, interaction disregarded.\nRunning manual Transmission <==> Discord synchronisation."
+    }
+} 
